@@ -82,9 +82,9 @@ The dataset is divided into training and testing sets, facilitating the evaluati
 
 We implement and evaluate the following machine learning models for disease diagnosis:
 
-- Logistic Regression
-- Decision Tree
-- Random Forest
+- Logistic Regression (accuracy:)
+- Decision Tree       (accuracy:)
+- Random Forest       (accuracy:)
 
 Each model undergoes rigorous testing and validation to assess its predictive capabilities and suitability for real-world application.
 
