@@ -82,9 +82,9 @@ The dataset is divided into training and testing sets, facilitating the evaluati
 
 We implement and evaluate the following machine learning models for disease diagnosis:
 
-- Logistic Regression (accuracy:)
-- Decision Tree       (accuracy:)
-- Random Forest       (accuracy:)
+- Logistic Regression (`accuracy: 72%`)
+- Decision Tree       (`accuracy: 86%`)
+- Random Forest       (`accuracy: 96%`)
 
 Each model undergoes rigorous testing and validation to assess its predictive capabilities and suitability for real-world application.
 
