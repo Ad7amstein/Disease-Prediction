@@ -1,6 +1,6 @@
 # Predictive Disease Diagnosis Model
 
-Author: Adham Allam
+**Author**: Adham Allam
 
 ---
 
