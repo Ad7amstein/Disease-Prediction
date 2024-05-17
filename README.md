@@ -1,5 +1,11 @@
 # Predictive Disease Diagnosis Model <a href="https://colab.research.google.com/github/Ad7amstein/Disease-Prediction/blob/main/Disease_Prediction_Notebook.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+<!-- https://github.com/Ad7amstein/Disease-Prediction -->
+[![GitHub watchers](https://img.shields.io/github/watchers/Ad7amstein/Disease-Prediction.svg?style=social&label=Watch)](https://github.com/Ad7amstein/Disease-Prediction/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/Ad7amstein/Disease-Prediction.svg?style=social&label=Fork)](https://github.com/Ad7amstein/Disease-Prediction/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Ad7amstein/Disease-Prediction.svg?style=social&label=Star)](https://github.com/Ad7amstein/Disease-Prediction/stargazers/)
+<!-- ![alt_text](https://github.com/youssefHosni/Practical-Time-Series-In-Python/blob/main/Time-Series-Analysis.jpg) -->
+
 **Author**: Adham Allam
 
 ---
